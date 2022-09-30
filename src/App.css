@@ -7,6 +7,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .freecodecamp-logo-contenedor{
@@ -23,8 +24,8 @@
 }
 
 .contenedor-calculadora{
-    width: 400px;
-    height: 600px;
+    width: 350px;
+    height: 620px;
     padding: 14px;
     background-color: #282829ff;
     border-radius: 20px;

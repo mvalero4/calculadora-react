@@ -2,6 +2,12 @@
     position: absolute;
     left: 350px;
     top: 20px;
-    width: 120px;
+    width: 100px;
     object-fit: cover;
+}
+
+@media screen and (max-width: 1350px) {
+    .logo{
+        display: none;
+    }
 }
